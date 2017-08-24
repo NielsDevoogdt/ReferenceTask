@@ -1,0 +1,66 @@
+﻿@*@model ReferenceTask.Domain.Joke*@
+
+@model ReferenceTask.Models.Joke
+
+@{
+    ViewBag.Title = "Home";
+}
+
+<h2>Home</h2>
+
+@using (Html.BeginForm("ShowResult", "ListJokes"))
+{
+    @*@Html.ValidationSummary()*@
+
+    <input type="submit" value="Get 10 random jokes"/>
+}
+<br />
+<br />
+
+@*<div>
+        <table>
+            <tr>
+                <td><!-- joke text--> @Model.Text</td>
+                <td><!-- joke rating-->@Model.Rating</td>
+            </tr>
+
+            <tr>
+                <td><!-- joke text--></td>
+                <td><!-- joke rating--></td>
+            </tr>
+            <tr>
+                <td><!-- joke text--></td>
+                <td><!-- joke rating--></td>
+            </tr>
+            <tr>
+                <td><!-- joke text--></td>
+                <td><!-- joke rating--></td>
+            </tr>
+            <tr>
+                <td><!-- joke text--></td>
+                <td><!-- joke rating--></td>
+            </tr>
+            <tr>
+                <td><!-- joke text--></td>
+                <td><!-- joke rating--></td>
+            </tr>
+            <tr>
+                <td><!-- joke text--></td>
+                <td><!-- joke rating--></td>
+            </tr>
+            <tr>
+                <td><!-- joke text--></td>
+                <td><!-- joke rating--></td>
+            </tr>
+            <tr>
+                <td><!-- joke text--></td>
+                <td><!-- joke rating--></td>
+            </tr>
+            <tr>
+                <td><!-- joke text--></td>
+                <td><!-- joke rating--></td>
+            </tr>
+
+        </table>
+
+    </div>*@

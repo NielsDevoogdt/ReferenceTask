@@ -1,0 +1,30 @@
+﻿
+@model List<ReferenceTask.Models.Joke>
+
+@{
+    ViewBag.Title = "List Jokes";
+}
+
+<h2>"List Jokes</h2>
+
+@*<button type="button"> Get 10 random jokes</button>*@
+
+<br />
+<br />
+
+<div>
+    <table>
+        @foreach (var item in Model)
+        {
+            <tr>
+                @* <td><!-- joke text--> @Model.Text</td>*@
+                <td><!-- joke rating-->@item.Text</td>
+
+                <td><!-- joke rating-->@item.Rating</td>
+            </tr>
+        }
+
+
+    </table>
+
+</div>
