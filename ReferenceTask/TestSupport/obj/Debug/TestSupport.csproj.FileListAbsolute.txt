@@ -1,0 +1,4 @@
+C:\GIT-Repo\ReferenceTask\ReferenceTask\TestSupport\bin\Debug\TestSupport.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\TestSupport\bin\Debug\TestSupport.pdb
+C:\GIT-Repo\ReferenceTask\ReferenceTask\TestSupport\obj\Debug\TestSupport.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\TestSupport\obj\Debug\TestSupport.pdb

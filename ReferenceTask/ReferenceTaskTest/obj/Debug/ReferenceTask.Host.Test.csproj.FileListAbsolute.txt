@@ -1,5 +1,6 @@
 C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTaskTest\bin\Debug\ReferenceTaskTest.dll
 C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTaskTest\bin\Debug\ReferenceTaskTest.pdb
 C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTaskTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTaskTest\obj\Debug\ReferenceTask.Host.Test.csprojResolveAssemblyReference.cache
 C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTaskTest\obj\Debug\ReferenceTaskTest.dll
 C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTaskTest\obj\Debug\ReferenceTaskTest.pdb

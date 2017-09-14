@@ -1,4 +1,7 @@
 C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Domain\bin\Debug\ReferenceTask.Domain.dll
 C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Domain\bin\Debug\ReferenceTask.Domain.pdb
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Domain\bin\Debug\ReferenceTask.Persistence.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Domain\bin\Debug\ReferenceTask.Persistence.pdb
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Domain\obj\Debug\ReferenceTask.Domain.csprojResolveAssemblyReference.cache
 C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Domain\obj\Debug\ReferenceTask.Domain.dll
 C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Domain\obj\Debug\ReferenceTask.Domain.pdb

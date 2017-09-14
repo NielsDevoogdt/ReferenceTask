@@ -1,0 +1,7 @@
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Persistence\bin\Debug\ReferenceTask.Persistence.dll.config
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Persistence\bin\Debug\ReferenceTask.Persistence.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Persistence\bin\Debug\ReferenceTask.Persistence.pdb
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Persistence\bin\Debug\Newtonsoft.Json.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Persistence\bin\Debug\Newtonsoft.Json.xml
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Persistence\obj\Debug\ReferenceTask.Persistence.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Persistence\obj\Debug\ReferenceTask.Persistence.pdb

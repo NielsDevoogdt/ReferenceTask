@@ -1,24 +1,29 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using ReferenceTask.Domain.Repositories;
+using System.Threading.Tasks;
 using System.Web.Mvc;
-using ReferenceTask.Models;
+using ReferenceTask.Persistence.Services;
 
 namespace ReferenceTask.Controllers
 {
     public class HomeController : Controller
     {
+
+        //public JokeRepository jokerepo;
         // GET: Home
-        public ActionResult Index()
-        {
-            //   return View("Home"); om te forceren naar home
-            return View();
-        }
+        //public async Task<ActionResult> Index()
+        //{
+        //    //force test
+        //    //JokeRepository jokerepo = new JokeRepository();
+        //    //jokerepo = new JokeRepository(new JokeApiService());
+        //    //var jokes = await jokerepo.GetJokes();
+
+        //    //   return View("Home"); om te forceren naar home
+        //    //return Viekw(jokes);
+        //}
 
 
         //public ActionResult List(Joke)
-        public ActionResult List()
+        public ActionResult ListJokes()
 
         {
 

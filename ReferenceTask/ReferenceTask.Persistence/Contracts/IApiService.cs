@@ -1,9 +1,11 @@
-﻿using System.Collections.Generic;
+﻿using System.Threading.Tasks;
 
 namespace ReferenceTask.Persistence.Contracts
 {
-    public interface IApiService
+    public interface IApiService<T>
+        where T : class
     {
-        IEnumerable<Joke> Get();
+        //Task<T> GetAsync();
+        Task<T> GetJokesFromApi();
     }
 }

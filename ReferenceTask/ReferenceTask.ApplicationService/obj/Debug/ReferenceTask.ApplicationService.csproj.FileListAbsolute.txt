@@ -1,0 +1,4 @@
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.ApplicationService\bin\Debug\ReferenceTask.ApplicationService.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.ApplicationService\bin\Debug\ReferenceTask.ApplicationService.pdb
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.ApplicationService\obj\Debug\ReferenceTask.ApplicationService.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.ApplicationService\obj\Debug\ReferenceTask.ApplicationService.pdb

@@ -2,7 +2,6 @@
 {
     public class Joke
     {
-
         public string Text { get; set; }
         public int Rating { get; set; }
 
@@ -12,16 +11,6 @@
             Rating = rating;
 
         }
-
-
-
-
-
-
-
-
-
-
-
+        
     }
 }

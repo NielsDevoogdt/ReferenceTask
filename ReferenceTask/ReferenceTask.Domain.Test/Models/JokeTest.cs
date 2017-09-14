@@ -1,28 +1,36 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ReferenceTask.Domain;
+﻿using ReferenceTask.Domain.Models;
+using TestSupport;
+using Xunit;
 
-namespace ReferenceTask.Domain.Test
+namespace ReferenceTask.Domain.Test.Models
 {
-    [TestClass]
     public class JokeTest
+        : ArrangeActAssertTest
     {
+        private Joke _sut;
+        private string _id;
+        private string _text;
+        private int _rating;
 
-        [TestMethod]
-        public void Then_It_Should_Create_Valid_Instance()
+        protected override void Arrange()
         {
-            //Arrange
-            Joke _sut = new Joke("Chuck Norris doesn't breath, breath breaths Chuck Norris", 1);
+            _id = "001";
+            _text = "Chuck Norris doesn't breath, breath breaths Chuck Norris";
+            _rating = 1;
 
-            //Act
-
-            //Assert
-            Assert.IsNotNull((_sut));
+        }
+        protected override void Act()
+        {
+            _sut = new Joke(_id, _text, _rating);
 
         }
 
-
-
+        [Fact]
+        public void Then_It_Should_Create_Valid_Instance()
+        {
+            Setup();
+            Assert.NotNull(_sut);
+        }
 
     }
 }

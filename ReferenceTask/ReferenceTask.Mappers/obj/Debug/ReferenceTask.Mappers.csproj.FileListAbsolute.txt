@@ -1,0 +1,9 @@
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Mappers\bin\Debug\ReferenceTask.Mappers.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Mappers\bin\Debug\ReferenceTask.Mappers.pdb
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Mappers\bin\Debug\Newtonsoft.Json.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Mappers\bin\Debug\ReferenceTask.Persistence.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Mappers\bin\Debug\ReferenceTask.Persistence.pdb
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Mappers\bin\Debug\Newtonsoft.Json.xml
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Mappers\obj\Debug\ReferenceTask.Mappers.csprojResolveAssemblyReference.cache
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Mappers\obj\Debug\ReferenceTask.Mappers.dll
+C:\GIT-Repo\ReferenceTask\ReferenceTask\ReferenceTask.Mappers\obj\Debug\ReferenceTask.Mappers.pdb
